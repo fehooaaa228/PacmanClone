@@ -1,0 +1,76 @@
+﻿  Ghost.cpp
+C:\Users\dmare\source\repos\Pacman\Pacman\Globals.h(53,39): warning C4267: инициализация: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+  (компиляция исходного файла "Ghost.cpp")
+  
+C:\Users\dmare\source\repos\Pacman\Pacman\Globals.h(53,30): warning C4267: инициализация: преобразование из "size_t" в "const unsigned short"; возможна потеря данных
+  (компиляция исходного файла "Ghost.cpp")
+  
+C:\Users\dmare\source\repos\Pacman\Pacman\Globals.h(54,40): warning C4267: инициализация: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+  (компиляция исходного файла "Ghost.cpp")
+  
+C:\Users\dmare\source\repos\Pacman\Pacman\Globals.h(54,31): warning C4267: инициализация: преобразование из "size_t" в "const unsigned short"; возможна потеря данных
+  (компиляция исходного файла "Ghost.cpp")
+  
+C:\Users\dmare\source\repos\Pacman\Pacman\Globals.h(56,27): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "Ghost.cpp")
+  
+C:\Users\dmare\source\repos\Pacman\Pacman\Globals.h(57,28): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "Ghost.cpp")
+  
+C:\Users\dmare\source\repos\Pacman\Pacman\Globals.h(59,32): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Ghost.cpp")
+  
+C:\Users\dmare\source\repos\Pacman\Pacman\Ghost.cpp(67,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\dmare\source\repos\Pacman\Pacman\Ghost.cpp(68,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\dmare\source\repos\Pacman\Pacman\Ghost.cpp(79,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\dmare\source\repos\Pacman\Pacman\Ghost.cpp(80,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\dmare\source\repos\Pacman\Pacman\Ghost.cpp(29,12): warning C4101: bodySource: неиспользованная локальная переменная
+C:\Users\dmare\source\repos\Pacman\Pacman\Ghost.cpp(143,13): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\Ghost.cpp(148,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\Ghost.cpp(186,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\Ghost.cpp(218,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  GhostManager.cpp
+C:\Users\dmare\source\repos\Pacman\Pacman\Globals.h(53,39): warning C4267: инициализация: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+  (компиляция исходного файла "GhostManager.cpp")
+  
+C:\Users\dmare\source\repos\Pacman\Pacman\Globals.h(53,30): warning C4267: инициализация: преобразование из "size_t" в "const unsigned short"; возможна потеря данных
+  (компиляция исходного файла "GhostManager.cpp")
+  
+C:\Users\dmare\source\repos\Pacman\Pacman\Globals.h(54,40): warning C4267: инициализация: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+  (компиляция исходного файла "GhostManager.cpp")
+  
+C:\Users\dmare\source\repos\Pacman\Pacman\Globals.h(54,31): warning C4267: инициализация: преобразование из "size_t" в "const unsigned short"; возможна потеря данных
+  (компиляция исходного файла "GhostManager.cpp")
+  
+C:\Users\dmare\source\repos\Pacman\Pacman\Globals.h(56,27): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "GhostManager.cpp")
+  
+C:\Users\dmare\source\repos\Pacman\Pacman\Globals.h(57,28): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "GhostManager.cpp")
+  
+C:\Users\dmare\source\repos\Pacman\Pacman\Globals.h(59,32): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "GhostManager.cpp")
+  
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.h(13,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "GhostManager.cpp")
+  
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(7,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(9,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(20,33): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(22,36): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(23,57): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(23,33): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(25,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(133,27): warning C4305: *=: усечение из "double" в "float"
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(138,27): warning C4305: *=: усечение из "double" в "float"
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(191,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(202,61): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(206,83): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(207,104): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(207,80): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(223,60): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(223,36): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(230,64): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\dmare\source\repos\Pacman\Pacman\GhostManager.cpp(230,40): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+  Создание кода...
+  Pacman.vcxproj -> C:\Users\dmare\source\repos\Pacman\x64\Debug\Pacman.exe
